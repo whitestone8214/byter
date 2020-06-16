@@ -1,0 +1,6 @@
+Name: Byter
+Description: Byte and string utility library
+Version: 0.0.1
+Requires: cell
+Cflags: -Wno-int-conversion -Wno-int-to-pointer-cast -Wno-pointer-to-int-cast
+Libs: -lbyter
